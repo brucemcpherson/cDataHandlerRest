@@ -1,5 +1,5 @@
 # Google Apps Script Project: cDataHandlerRest
-This repo (cDataHandlerRest) was automatically updated on 02 March 2015 19:31:54 GMT by GasGit
+This repo (cDataHandlerRest) was automatically updated on 09 June 2015 19:07:17 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cDataHandlerRest
@@ -23,7 +23,7 @@ cFlatten| cFlatten|MqxKdBrlw18FDd-X5zQLd7yz3TLx7pV4j|8|no|[here](libraries/cFlat
 cDriverOrchestrate| cDriverOrchestrate|MFOtcXFHPAtxy_lb6tkhrXKi_d-phDA33|5|no|[here](libraries/cDriverOrchestrate "library source")
 cDriverParse| cDriverParse|Mhr42c9etIE-fQb2D9pwW0ai_d-phDA33|9|no|[here](libraries/cDriverParse "library source")
 cParseCom| cParseCom|MMaKU0wHrNShUwFypY3nM8iz3TLx7pV4j|16|no|[here](libraries/cParseCom "library source")
-cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|23|no|[here](libraries/cUseful "library source")
+cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|25|no|[here](libraries/cUseful "library source")
 cDbAbstraction| cDbAbstraction|MHfCjPQlweartW45xYs6hFai_d-phDA33|37|no|[here](libraries/cDbAbstraction "library source")
 cUAMeasure| cUAMeasure|MIHfxr-fc_7bXa1l0Dkk0oqi_d-phDA33|6|no|[here](libraries/cUAMeasure "library source")
 cNamedLock| cNamedLock|Mpv7vUR0126U53sfSMXsAPai_d-phDA33|12|no|[here](libraries/cNamedLock "library source")
@@ -31,7 +31,7 @@ cCacheHandler| cCacheHandler|M3reA5eBxtwxSqCEgPywb9ai_d-phDA33|13|no|[here](libr
 cDriverFusion| cDriverFusion|MyhWrchJeGiOowTfrMNidiSz3TLx7pV4j|8|no|[here](libraries/cDriverFusion "library source")
 cDriverDrive| cDriverDrive|Ma__4vH--nQ_FPsuNF1BFuyz3TLx7pV4j|12|no|[here](libraries/cDriverDrive "library source")
 cDelegateMemory| cDelegateMemory|MyIN8WHN1Uf3EG-obHsjrAyz3TLx7pV4j|10|no|[here](libraries/cDelegateMemory "library source")
-cDriverMemory| cDriverMemory|M96uVZRXXG_RY3c2at9V6tSz3TLx7pV4j|10|no|[here](libraries/cDriverMemory "library source")
+cDriverMemory| cDriverMemory|M96uVZRXXG_RY3c2at9V6tSz3TLx7pV4j|11|no|[here](libraries/cDriverMemory "library source")
 cDriverImportio| cDriverImportio|MJWmIWvhOOsv401piLKzeNai_d-phDA33|3|no|[here](libraries/cDriverImportio "library source")
 importio| importio|M2ZyMvVZdgKdy3SaLP8gq3X797_hv7HHb|3|no|no
 cDriverSheet| cDriverSheet|Mrckbr9_w7PCphJtOzhzA_Cz3TLx7pV4j|11|no|[here](libraries/cDriverSheet "library source")
